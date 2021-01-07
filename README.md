@@ -1,2 +1,2 @@
 # robofriends
-Simple, clean, and responsive webapp built using React.js!
+Simple, clean, and responsive webapp that was built using React.js!
